@@ -10,6 +10,7 @@ public class FirstEjbBean implements FirstEjb {
 	@Override
 	public void test1() {
 		System.out.println("test1----");
+		//---------------
 	}
 
 }
